@@ -12,7 +12,7 @@ export default function App() {
         href={routes.onboarding}
         className="mt-4 rounded bg-primary text-white p-4"
       >
-        Go to Onboarding
+        Go to Onboarding!
       </Link>
       <Link
         href={routes.signIn}
